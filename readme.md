@@ -81,7 +81,7 @@ Of course our clipper still has to clip against the far clipping plane; it's jus
 
 ## What is this?
 
-A fuller discussion can be found at the block post above. This is the source kit for that discussion, demonstrating the rendering of a nearby and far away object in the same scene, rendered with the traditional transformation matrix, and with the modified transformation matrix shown above.
+A fuller discussion can be found at the blog post above. This is the source kit for that discussion, demonstrating the rendering of a nearby and far away object in the same scene, rendered with the traditional transformation matrix, and with the modified transformation matrix shown above.
 
 ## License
 
