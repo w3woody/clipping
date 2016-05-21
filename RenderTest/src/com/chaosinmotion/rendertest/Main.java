@@ -14,11 +14,13 @@ public class Main
      */
     public static void main(String[] args)
     {
+    	System.out.println("starting...");
         Matrix m = Matrix.perspective1(0.8, 1, 1);
         renderTest(m,"image_err.png");
         
         m = Matrix.perspective2(0.8, 1, 1);
         renderTest(m,"image_ok.png");
+    	System.out.println("done.");
     }
 
     private static void renderTest(Matrix m, String fname)
